@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+	<question text="Contestant Answers">
+		<answer text="" points=""/>
+		<answer text="" points=""/>
+		<answer text="" points=""/>
+		<answer text="" points=""/>
+		<answer text="" points=""/>
+		<answer text="" points=""/>
+		<answer text="" points=""/>
+		<answer text="" points=""/>
+		<answer text="" points=""/>
+		<answer text="" points=""/>
+	</question>
+	<question text="Name a good birthday present for a kid that wants to be a cowboy">
+		<answer text="Cowboy Hat" points="44"/>
+		<answer text="Cowboy Boots" points="21"/>
+		<answer text="Toy Gun" points="13"/>
+		<answer text="Rope" points="8"/>
+		<answer text="Guitar" points="7"/>
+		<answer text="Horse" points="5"/>
+	</question>
+	<question text="Name a sandwich you can get at any deli">
+		<answer text="Ham and Cheese" points="34"/>
+		<answer text="Turkey" points="30"/>
+		<answer text="Roast Beef" points="14"/>
+		<answer text="Corn Beef" points="7"/>
+		<answer text="Tuna" points="6"/>
+		<answer text="Pastrami" points="5"/>
+		<answer text="Salami" points="4"/>
+	</question>
+	<question text="Besides books, name something you can buy at a bookstore">
+		<answer text="Magazines" points="31"/>
+		<answer text="Bookmarks" points="15"/>
+		<answer text="Coffee" points="15"/>
+		<answer text="Newspaper" points="11"/>
+		<answer text="Music" points="9"/>
+		<answer text="Calendars" points="8"/>
+		<answer text="Audio Book" points="7"/>
+	</question>
+	<question text="Real or fictional, name someone famous associated with an apple">
+		<answer text="Johnny Appleseed" points="39"/>
+		<answer text="William Tell" points="18"/>
+		<answer text="Isaac Newton" points="17"/>
+		<answer text="Eve" points="13"/>
+		<answer text="Steve Jobs" points="9"/>
+		<answer text="William Burroughs" points="4"/>
+	</question>
+	<question text="Name a souvenir you can buy at a rock concert">
+		<answer text="T Shirt" points="59"/>
+		<answer text="Poster" points="18"/>
+		<answer text="CD" points="13"/>
+		<answer text="Program" points="5"/>
+		<answer text="Hat" points="5"/>
+	</question>
+</questions>
